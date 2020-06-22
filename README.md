@@ -1,0 +1,2 @@
+# CoinsCollector
+Game collector coins
